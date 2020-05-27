@@ -18,6 +18,7 @@ public class Ejehistory {
         System.out.println("versión 0 para history");
         System.out.println("versión 1 adición de un sout");
         imprimir();
+        System.out.println("versión 4 tag");
     }
     static void imprimir(){
         System.out.println("versión 2 desde método");
