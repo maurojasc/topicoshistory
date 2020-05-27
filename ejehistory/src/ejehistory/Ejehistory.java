@@ -20,6 +20,7 @@ public class Ejehistory {
         imprimir();
         System.out.println("versión 4.1 tag");
         desarrollo();
+        System.out.println("versión 5");
     }
     static void imprimir(){
         System.out.println("versión 2 desde método");
