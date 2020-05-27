@@ -17,6 +17,9 @@ public class Ejehistory {
     public static void main(String[] args) {
         System.out.println("versión 0 para history");
         System.out.println("versión 1 adición de un sout");
+        imprimir();
     }
-    
+    static void imprimir(){
+        System.out.println("versión 2 desde método");
+    }
 }
